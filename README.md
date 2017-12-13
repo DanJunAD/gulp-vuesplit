@@ -9,6 +9,7 @@ npm install --save gulp-vuesplit1
 ```
 
 #usage
+---
 you should write a gulpfile like this
 gulpfile.js
 
