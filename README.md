@@ -1,15 +1,15 @@
 # gulp-vuesplit
----
+
 It get script label content of a vue file, and save as a js file
 
 # install
----
+
 ```
 npm install --save gulp-vuesplit1
 ```
 
-#usage
----
+# usage
+
 you should write a gulpfile like this
 gulpfile.js
 
